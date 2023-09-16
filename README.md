@@ -3,7 +3,7 @@
 
 ### Link to Website
 
-[software development website](http://agilemanifesto.org/iso/en/manifesto.html)
+[Agile Manifesto](http://agilemanifesto.org/iso/en/manifesto.html)
 
 ### Quotes
 
