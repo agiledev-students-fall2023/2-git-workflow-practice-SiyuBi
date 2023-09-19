@@ -18,3 +18,6 @@ Responding to change over following a plan
 
 That is, while there is value in the items on
 the right, we value the items on the left more.
+
+---Chih-Lun's comment--
+Its absolutely important for us to remember the fundamentals of agile development when we are learning agile concepts.
